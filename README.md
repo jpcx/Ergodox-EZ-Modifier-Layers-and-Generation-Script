@@ -1,11 +1,7 @@
-Ergodox EZ Configurator Modifier-Layer Populator
+# [Separated Modifier Layers & Vim v0.7.0](https://configure.ergodox-ez.com/ergodox-ez/layouts/9wlwj)
 
-Justin Collier <jpcxist@gmail.com>
+This is the repository for my personal Ergodox EZ layout.
 
-Licensed under GPL-3.0-or-later
+I wanted different layers for each modifier chord so I wrote a script that populates layers with chorded keymaps.
 
-This script applies the same alphabetical layout to each layer listed in
-the MODIFIER_LAYERS object.
-
-A modifier chord is applied to all buttons of each layer
-Connections between layers must be applied manually.
+If you would like to try this kind of configuration just modify the three constants in the script.
