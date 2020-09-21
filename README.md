@@ -1,4 +1,4 @@
-# [Separated Modifier Layers & Vim v0.7.0](https://configure.ergodox-ez.com/ergodox-ez/layouts/9wlwj)
+# [Separated Modifier Layers & Vim](https://configure.ergodox-ez.com/ergodox-ez/layouts/9wlwj)
 
 This is the repository for my personal Ergodox EZ layout.
 
